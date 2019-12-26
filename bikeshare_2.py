@@ -13,7 +13,7 @@ months = ['january', 'february', 'march', 'april', 'may', 'june']
 invalid_option = "You did not enter a valid option. Please try again!\n"
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Asks user to specify a city, month, and day of the week to analyze.
 
     Returns:
         (str) city - name of the city to analyze
