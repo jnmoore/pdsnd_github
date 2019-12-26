@@ -13,7 +13,7 @@ months = ['january', 'february', 'march', 'april', 'may', 'june']
 invalid_option = "You did not enter a valid option. Please try again!\n"
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Asks user to specify a city, month, and day of the week to analyze.
 
     Returns:
         (str) city - name of the city to analyze
@@ -198,7 +198,7 @@ def display_data(df):
     Iterate through 5 entries at a time.
 
     Returns:
-        Print five row entries of data to terminal
+        Print five row entries of data
     """
     #Prompt asking user if they'd like to view raw data
     question = input("\nWould you like to view raw data? Yes or No?\n ")
