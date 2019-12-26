@@ -2,7 +2,7 @@
 December 24, 2019
 
 ### Project Title
-Udacity Bike Share Data
+Udacity Three City BikeShare Data
 
 ### Description
 This project is used to take a look at the bikeshare data for three cities: Chicago, New York City, and Washington and allow users to gain informatino about the number of users, rentals, etc that were handled based on month, and day of the week. 
