@@ -11,11 +11,6 @@ This project is used to take a look at the bikeshare data for three cities: Chic
 bikeshare_2.py
 
 ### Credits
-Used python3
-
-In order to run program:
-python3 bikeshare_2.py
-
 IDE Used: VSCode with Python Extension
 
 Resources Used in addition to videos within the PDS program:
